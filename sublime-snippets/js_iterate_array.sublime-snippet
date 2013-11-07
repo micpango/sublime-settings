@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+for (var ${1:index} = 0; $1 < ${2:array}.length; $1++) {
+  var ${3:var} = $2[$1];
+  $4
+}
+]]></content>
+	<tabTrigger>itar</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

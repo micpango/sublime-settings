@@ -1,0 +1,9 @@
+###SublimeText###
+*.cache
+Package Control.sublime-settings
+.DS_Store
+
+# SublimeText project files
+Package Control.last-run
+Package Control.system-ca-bundle
+.SublimeREPLHistory/

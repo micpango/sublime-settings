@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+for (var ${1:var} in ${2:array}) {
+  $3
+}
+]]></content>
+	<tabTrigger>itin</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

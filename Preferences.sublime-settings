@@ -1,0 +1,14 @@
+{
+	"folder_exclude_patterns":
+	[
+		"build",
+		"target",
+		"node_modules",
+		".idea"
+	],
+	"font_size": 12.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
