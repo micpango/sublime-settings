@@ -1,6 +1,5 @@
 ###SublimeText###
 *.cache
-Package Control.sublime-settings
 .DS_Store
 
 # SublimeText project files

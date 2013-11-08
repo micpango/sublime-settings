@@ -1,0 +1,18 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"CoffeeScript",
+		"Git",
+		"Indent XML",
+		"jQuery",
+		"Package Control",
+		"Prefixr",
+		"Pretty JSON",
+		"RubyTest",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeREPL"
+	]
+}
