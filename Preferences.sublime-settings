@@ -6,7 +6,15 @@
 		"target",
 		"node_modules",
 		".idea",
-		".git"
+		".git",
+		".pitest",
+		"overlays"
+	],
+	"file_exclude_patterns":
+	[
+		".surefire-*",
+		"*.iml",
+		".DS_Store"
 	],
 	"font_size": 12.0,
 	"ignored_packages":
