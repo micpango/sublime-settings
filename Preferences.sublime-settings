@@ -1,5 +1,6 @@
 {
-	"color_scheme": "Packages/Theme - Argonaut/Argonaut.tmTheme",
+	"theme": "Spacegray.sublime-theme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
 	"file_exclude_patterns":
 	[
 		".surefire-*",
