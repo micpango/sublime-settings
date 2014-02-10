@@ -14,7 +14,9 @@
 		".idea",
 		".git",
 		".pitest",
-		"overlays"
+		".gradle",
+		"overlays",
+		"classes"
 	],
 	"font_size": 12.0,
 	"ignored_packages":
