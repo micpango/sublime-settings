@@ -1,7 +1,6 @@
 <snippet>
 	<content><![CDATA[
 "use strict";
-
 $1
 ]]></content>
 	<tabTrigger>us</tabTrigger>
