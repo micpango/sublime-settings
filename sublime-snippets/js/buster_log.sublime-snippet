@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-buster.log("${1:message}");
+buster.log('${1:message}');
 ]]></content>
 	<tabTrigger>bl</tabTrigger>
 	<scope>source.js</scope>
