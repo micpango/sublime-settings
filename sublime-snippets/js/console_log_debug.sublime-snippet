@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-console.log('DEBUG: ' + ${1:message});
+console.log('DEBUG: ' + ${1:message}); // TODO michael: remove
 ]]></content>
 	<tabTrigger>cld</tabTrigger>
 	<scope>source.js</scope>
