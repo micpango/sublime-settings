@@ -4,7 +4,9 @@
 	[
 		".surefire-*",
 		"*.iml",
-		".DS_Store"
+		".DS_Store",
+		"*.sublime-workspace",
+		"*.sublime-project"
 	],
 	"folder_exclude_patterns":
 	[
