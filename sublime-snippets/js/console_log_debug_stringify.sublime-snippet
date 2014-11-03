@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+console.log('DEBUG $2: ' + JSON.stringify(${1:object})); // TODO michael: remove
+]]></content>
+	<tabTrigger>clds</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
